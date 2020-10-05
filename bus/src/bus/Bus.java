@@ -1,16 +1,8 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package bus;
 
 import java.util.Scanner;
 
-/**
- *
- * @author usuario
- */
 public class Bus {
 
     /**
@@ -35,6 +27,10 @@ public class Bus {
         System.out.println("7: pasajeos actuales");
         System.out.println("8: total de pasajeros");
         System.out.println("9: salir del programa");
+        System.out.println("10: prueba");
+        System.out.println("11: rama menu");
+         
+        
         
         
             
